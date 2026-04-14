@@ -3,3 +3,6 @@ matplotlib
 seaborn
 numpy
 jupyter
+pandas
+pywaffle
+squrify
